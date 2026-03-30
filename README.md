@@ -77,7 +77,7 @@ pip install opencv-python numpy
 ### 3. Run the Project
 
 ```bash
-python main.py
+python colordetection.py
 ```
 
 ---
